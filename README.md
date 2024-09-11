@@ -95,7 +95,7 @@ The final trained model was integrated with OpenCV to enable real-time emotion d
 ### Installation Guide
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/emotion-detection-cnn.git
+    git clone https://github.com/ravee360/emotion-detection-cnn.git
     cd emotion-detection-cnn
     ```
 2. Create a virtual environment (optional but recommended):
