@@ -16,10 +16,6 @@ This project implements a deep learning-based model for detecting human emotions
 - [Project Setup and Installation](#project-setup-and-installation)
   - [Installation Guide](#installation-guide)
   - [Running the Project](#running-the-project)
-- [Performance Analysis](#performance-analysis)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The goal of this project is to develop a machine learning solution that can identify human emotions such as anger, happiness, sadness, and others from facial expressions in images. Emotion detection has applications in various domains such as healthcare, entertainment, customer service, and human-computer interaction.
