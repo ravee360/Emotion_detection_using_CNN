@@ -40,7 +40,7 @@ Each image is pre-processed and labeled for classification tasks, making it suit
 ### Model 1: Custom CNN
 The first approach involves building a CNN model from scratch to classify emotions. The architecture consists of multiple convolutional layers followed by max-pooling, dropout, and fully connected layers.
 
-- **Train Accuracy:** 63.11%
+- **Train Accuracy:** 53.11%
 - **Validation Accuracy:** 55.52%
 
 Despite achieving a reasonable accuracy, there was noticeable overfitting, as the validation accuracy lagged behind training accuracy.
